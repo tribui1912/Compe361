@@ -1,0 +1,46 @@
+Python
+- Native code: Machine language
+- Intermediate language: IL
+- Intepreter is required for the Machine to understand the code
+
+VBScript doesn't have complication, it direct translate into native code, while Javascript have so it is slower
+
+Python file extention end with .py
+Python is object-oriented programming language
+
+Variables:
+- In C+, we need to declare variables type in advance, in Python you dont have to declare type first but just declare the value of variables.
+- In Python variables is a reference/pointer to object so it doesn't need declaration of type.
+
+Assignment operation:
+- Operators in Python is similar to other languages
+(more at: https://www.geeksforgeeks.org/assignment-operators-in-python/)
+
+Expressions:
+- Expressions in Python is similar to other languages
+(more at: https://www.geeksforgeeks.org/expressions-in-python/)
+
+String:
+- Strings in python are surrounded by single quotation or double quotation (single line)
+- If you doing multiple line use triple quotation marks
+Ex:
+a = """this
+is
+multiple
+line"""
+
+- Strings are also array. 
+Ex: If you have string a = "hello"
+a[x] will give you the character at (x+1) location since the position count start from 0
+a[0] gives 'h'
+a[4] gives 'o'
+- When using string there is 2 way to go down a line "\r" or "\n"
+- The differences is \r is Carriage return and \n is Line feed
+- In most cases we use \n to go down a line
+
+(more at: https://www.w3schools.com/python/python_strings.asp)
+Numbers:
+
+Arithmetic operation:
+
+
